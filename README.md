@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack developer currently working in VtigerSpain developing and integrating the open source CRM solution Vtiger 💻<br>I love Front-End and creating visual, moving and modern web sites that every creative brand would like to have ✍️<br>I love experimenting with Javascript, GSAP, LocomotiveScroll, ThreeJS and more... back devs fear me 👻<br>I'm open to new projects, specially if they are full of image and video content to show off 👀<br>Making great things ✨
+I'm a Full-Stack developer 💻<br>I love Front-End and creating visual, moving and modern web sites that every creative brand would like to have ✍️<br>I love experimenting with Javascript, GSAP, LocomotiveScroll, ThreeJS and more... back devs fear me 👻<br>I'm open to new projects, specially if they are full of image and video content to show off 👀<br>Making great things ✨
 
 
 ## 🌐 Socials:
