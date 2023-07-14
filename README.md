@@ -15,9 +15,6 @@ I'm a Full-Stack developer 💻<br>I love Front-End and creating visual, moving 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NerokArtworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NerokArtworks&icon=6&color=12)](https://visitcount.itsvg.in)
 
